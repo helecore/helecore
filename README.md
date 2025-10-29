@@ -1,4 +1,4 @@
-## Hi there 👋
+## 🌱 still figuring this whole thing out 🌱
 
 <!--
 **helecore/helecore** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
